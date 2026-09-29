@@ -1,0 +1,12 @@
+{
+  "grammar": "canonical",
+  "cues": [
+    {
+      "time_ms": 7996000,
+      "fractional": false,
+      "flag": null,
+      "speed": null,
+      "track": "Some Track – Goodbye"
+    }
+  ]
+}

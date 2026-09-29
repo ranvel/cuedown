@@ -1,0 +1,26 @@
+{
+  "grammar": "canonical",
+  "cues": [
+    {
+      "time_ms": 0,
+      "fractional": false,
+      "flag": null,
+      "speed": null,
+      "track": "One"
+    },
+    {
+      "time_ms": 180000,
+      "fractional": false,
+      "flag": null,
+      "speed": null,
+      "track": "Two"
+    },
+    {
+      "time_ms": 360000,
+      "fractional": false,
+      "flag": null,
+      "speed": null,
+      "track": "Three"
+    }
+  ]
+}

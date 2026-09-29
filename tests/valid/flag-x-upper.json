@@ -1,0 +1,12 @@
+{
+  "grammar": "canonical",
+  "cues": [
+    {
+      "time_ms": 0,
+      "fractional": false,
+      "flag": "X",
+      "speed": null,
+      "track": "Skip This"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "grammar": "canonical",
+  "cues": [
+    {
+      "time_ms": 0,
+      "fractional": false,
+      "flag": "<3",
+      "speed": null,
+      "track": "Aalson – Reeds"
+    },
+    {
+      "time_ms": 416000,
+      "fractional": false,
+      "flag": null,
+      "speed": null,
+      "track": "Alex Rusin – Ups and Down"
+    },
+    {
+      "time_ms": 950000,
+      "fractional": false,
+      "flag": "<3",
+      "speed": 3,
+      "track": "Nils Andreas – Rainbow Colors"
+    },
+    {
+      "time_ms": 3865500,
+      "fractional": true,
+      "flag": null,
+      "speed": null,
+      "track": "Koelle – Round & Round"
+    },
+    {
+      "time_ms": 7996000,
+      "fractional": false,
+      "flag": "X",
+      "speed": 2,
+      "track": "Some Track – Goodbye"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Fixture files are byte-exact test vectors. Never normalize their line
+# endings (crlf-input.cd intentionally contains CRLF; canonical files are LF).
+*.cd -text
+*.json -text
+tests/VERSION -text
