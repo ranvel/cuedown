@@ -1,5 +1,7 @@
 # CueDown
 
+**Website: [cuedown.org](https://cuedown.org)** — the overview, a live normalizer you can paste a tracklist into, and the spec in readable form.
+
 CueDown is a minimal, human-writable cue sheet format for tracklists and DJ sets. A tracklist in the common forum notation (`0:00 Artist - Title`) is already almost valid CueDown, and normalizing a file is always safe: every accepted line maps to exactly one canonical line, and canonical lines are fixed points. The full format definition lives in [`spec/cuedown-spec.md`](spec/cuedown-spec.md).
 
 This repository is the canonical home of the spec and of the **conformance corpus** — a language-agnostic test suite modeled on [toml-test](https://github.com/toml-lang/toml-test). The fixtures are inert data files; there is no parser code here. Every implementation brings its own small harness.
